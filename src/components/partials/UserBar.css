@@ -1,0 +1,26 @@
+.UserBar .menu{
+	margin-top: 50px;
+	margin-bottom: 20px;
+    text-align: right;
+    margin-right: 30px;
+    font-family: Muli;
+
+}
+
+ .UserBar ul li{
+	display: inline-block;
+	padding: 10px 20px;
+    text-transform: uppercase;
+    text-decoration-style: none;
+   
+}
+.UserBar .logo{
+   margin-top: -20px;
+    float: left;
+}
+.UserBar img:hover{
+	opacity: 1;
+}
+.UserBar{
+    height: 70px;
+}

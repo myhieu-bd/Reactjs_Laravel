@@ -1,0 +1,31 @@
+.Profile form{
+    border: 3px solid #f1f1f1;
+    width: 500px;
+    margin: auto;
+}
+
+
+.Profile button {
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  button:hover {
+    background-color: rgb(159, 170, 128);
+  }
+  .Profile input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  .ChangeProfile .container img {
+  margin-left: 90px;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+  }

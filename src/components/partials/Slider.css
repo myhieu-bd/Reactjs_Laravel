@@ -1,0 +1,48 @@
+/* Slider */
+.Slider{
+	margin-top: 50px;
+    position: relative;
+    text-align: center;
+    font-family: Muli;
+  
+
+}
+.Slider .title{
+    font-size: 30px;;
+	width: 300px;
+	position: absolute;
+	left: 1070px;
+	top: 50px;
+}
+.Slider .title h2{
+	font-size: 80px;
+	color: #464444;
+}
+.title p{
+    margin-top: 50px;
+    font-size: 20px;
+    word-spacing: .2cm;
+}
+.btn{
+    background: transparent;
+    padding: 15px 55px;
+	border-radius: 3px;
+    color:black;
+    background-color: none;
+    font-size: 18px;
+    width: 300px;
+	text-transform: uppercase;
+	cursor: pointer;
+	border: black solid 2px;
+    margin-top: 50px;
+    
+}
+.Slider .text {
+    margin: 50px auto auto  ;
+    width: 900px;
+    text-align: center;
+    font-size: 17px;
+    font-family: Muli;
+    color: grey;
+    word-spacing: 0.2cm;
+}

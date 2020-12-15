@@ -1,0 +1,30 @@
+.CourseDetail {
+    width: 800px;
+    margin: auto;
+}
+.PostDetail {
+    width: 800px;
+    margin: auto;
+}
+
+ input {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  button {
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+  }
+  button:hover {
+    background-color: rgb(159, 170, 128);
+  }
+  .avatar {
+    border-radius: 50%;
+  }

@@ -1,0 +1,26 @@
+.TopMenu .menu{
+	margin-top: 50px;
+	margin-bottom: 20px;
+    text-align: right;
+    margin-right: 30px;
+    font-family: Muli;
+
+}
+
+ .TopMenu ul li{
+	display: inline-block;
+	padding: 10px 20px;
+    text-transform: uppercase;
+    text-decoration-style: none;
+   
+}
+.TopMenu .logo{
+   margin-top: -20px;
+    float: left;
+}
+.TopMenu img:hover{
+	opacity: 0;
+}
+.TopMenu{
+    height: 70px;
+}

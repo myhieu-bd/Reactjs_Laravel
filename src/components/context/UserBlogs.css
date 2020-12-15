@@ -1,0 +1,22 @@
+.user img {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+.user .thinking {
+    width: 500px;
+    margin-left: 20px;
+}
+.UserBlog .content h2 {
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+.UserBlog {
+    width: 800px;
+    margin: auto;
+}
+.UserBlog .content{
+  
+}

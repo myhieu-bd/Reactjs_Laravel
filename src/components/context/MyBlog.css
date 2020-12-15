@@ -1,0 +1,71 @@
+.CreatePost form{
+    border: 3px solid #f1f1f1;
+    width: 500px;
+    margin: auto;
+}
+
+
+.CreatePost button {
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  button:hover {
+      background-color: rgb(159, 170, 128);
+  }
+  .CreatePost input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+.MyPosts {
+    border: 3px solid #f1f1f1;
+    width: 800px;
+    margin: auto;
+}
+.MyPosts table, td, th{
+border: 1px solid black;
+
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td{
+    text-align: center;
+}
+
+
+.EditMyPost input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+
+  .EditMyPost form{
+    border: 3px solid #f1f1f1;
+    width: 500px;
+    margin: auto;
+}
+
+.EditMyPost button {
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  .edit button{
+    width: 80px;
+  }
+  .dele button{
+    width: 80px;
+  }

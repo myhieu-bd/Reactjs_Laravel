@@ -1,0 +1,53 @@
+.CategoryItem {
+    display: grid;
+    position: relative;
+    text-align: center;
+font-family: Muli;
+word-spacing: .2cm;
+grid-template-columns: auto auto;
+margin: auto auto auto auto;
+
+
+}
+.Category h1{
+text-align: center;
+margin-bottom: 50px;
+margin-top: 50px;
+}
+.CategoryItem div{
+    
+    display:grid;
+    margin-bottom: 30px;
+}
+.CategoryItem .image img{
+    width:500px;
+    height:300px;
+}
+.CategoryItem .text{
+
+    text-align: left;
+    width: 450px;
+    height: 300px;
+    font-size: 17px;
+    color: gray;
+   margin-left:  70px ;
+}
+.CategoryItem .text .title{
+    font-size: 24px;
+    color: black;
+    margin-bottom: 10px;
+}
+.CategoryItem .text .script {
+    margin-bottom: 30px;
+}
+
+.CategoryItem .text .btn_learn{
+    width: 450px;
+    border: black 2px solid;
+    margin: auto;
+    height: 50px;
+    font-size: 17px;
+    background: transparent;
+    border-radius: 5px;
+  
+}

@@ -1,0 +1,75 @@
+.CourseItem {
+    display: grid;
+    position: relative;
+    text-align: center;
+font-family: Muli;
+word-spacing: .2cm;
+grid-template-columns: auto auto;
+margin: auto auto auto auto;
+margin-left: 100px;
+
+
+}
+.Category h1{
+text-align: center;
+margin-bottom: 50px;
+margin-top: 50px;
+}
+.CourseItem div{
+    
+    display:grid;
+    margin-bottom: 30px;
+}
+.CourseItem .image img{
+    width:400px;
+    height:300px;
+}
+.CourseItem .text{
+
+    text-align: left;
+    width: 450px;
+    height: 300px;
+    font-size: 17px;
+    color: gray;
+   margin-left:  30px ;
+}
+.CourseItem .text .title{
+    font-size: 24px;
+    color: black;
+    margin-bottom: 10px;
+}
+.CourseItem .text .script {
+    margin-bottom: 30px;
+}
+
+.CourseItem .text .btn_learn{
+    width: 450px;
+    border: black 2px solid;
+    margin: auto;
+    height: 50px;
+    font-size: 17px;
+    background: transparent;
+    border-radius: 5px;
+  
+}
+
+.cate {
+    text-align: center;
+    margin: auto auto auto auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+   
+}
+.cate img{
+    height: 500px;
+    width: 800px;
+   
+}
+.cate .text {
+    width: 600px;
+   margin: auto auto auto auto;
+   margin-top: 50px;
+
+word-spacing: .2cm;
+color: grey;
+}

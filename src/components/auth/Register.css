@@ -1,0 +1,95 @@
+
+
+  .Register div form {
+    width: 500px;
+   
+  }
+
+  .Register {
+    grid-template-columns: auto auto;
+    width: 1000px;
+
+    display: grid;
+  }
+  .Register div{
+    display: grid;
+    
+  }
+  .Register div .image{
+    width: 50%;
+    position: absolute;
+    height: 100px;
+  }
+  .Register div .registerin{
+    width: 50%;
+    position: absolute;
+  }
+  
+  .registerin {
+    margin: auto auto auto auto;
+    margin-left: 150px;
+  }
+  /* Full-width inputs */
+  .Register input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  /* Set a style for all buttons */
+  .Register button {
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  /* Add a hover effect for buttons */
+  .Register button:hover {
+    opacity: 0.8;
+  }
+  
+  /* Extra style for the cancel button (red) */
+  .Register .cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+  }
+  
+  /* Center the avatar image inside this container */
+  .Register .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+  }
+  
+  /* Avatar image */
+  .Register img.avatar {
+    width: 40%;
+    border-radius: 50%;
+  }
+  
+  /* Add padding to containers */
+  .Register  .container {
+
+    padding: 16px;
+    width: 500px;
+    margin: auto;
+    border-color: red;
+  }
+  
+  /* The "Forgot password" text */
+  .Register span.psw {
+    float: right;
+    padding-top: 16px;
+  }
+  .choice {
+      text-align: center;
+      text-decoration-style: none;
+      text-transform: uppercase;
+  }
+
+
